@@ -23,7 +23,8 @@ export default function page() {
     <div className='box'>
       <img alt={please ? 'capoo excited' : 'capoo flowers'} className='gif' 
         src={please ? '/capoo-excited.gif' : '/capoo-flowers.gif'} />
-      Will you go out with me?
+      <h3>Rhiannon Coralie Srodzinski</h3>
+      <p>Will you be my valentine?</p>
       <div className='btns'>
         <Link className='yes' href='/yay'>
           <button onMouseOver={prettyPlease} onMouseOut={prettyPlease}>
