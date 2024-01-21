@@ -261,10 +261,6 @@
     }
   },
   "entryCSSFiles": {
-    "/Users/chetheaker/Documents/CHE/valentine/app/page": {
-      "modules": [],
-      "files": []
-    },
     "/Users/chetheaker/Documents/CHE/valentine/app/layout": {
       "modules": [
         "/Users/chetheaker/Documents/CHE/valentine/app/style.css"
@@ -277,9 +273,17 @@
       "modules": [],
       "files": []
     },
-    "/Users/chetheaker/Documents/CHE/valentine/app/yay/page": {
+    "/Users/chetheaker/Documents/CHE/valentine/app/page": {
       "modules": [],
       "files": []
+    },
+    "/Users/chetheaker/Documents/CHE/valentine/app/yay/page": {
+      "modules": [
+        "/Users/chetheaker/Documents/CHE/valentine/app/yay/style.css"
+      ],
+      "files": [
+        "static/css/app/yay/page.css"
+      ]
     }
   }
 }
